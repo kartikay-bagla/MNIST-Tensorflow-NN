@@ -1,0 +1,34 @@
+Extracting /tmp/data\train-images-idx3-ubyte.gz
+Extracting /tmp/data\train-labels-idx1-ubyte.gz
+Extracting /tmp/data\t10k-images-idx3-ubyte.gz
+Extracting /tmp/data\t10k-labels-idx1-ubyte.gz
+Epoch 1 completed out of 10 
+loss: 1748471.11086
+Accuracy 0.9036
+Epoch 2 completed out of 10 
+loss: 417529.277077
+Accuracy 0.9169
+Epoch 3 completed out of 10 
+loss: 229171.031096
+Accuracy 0.9305
+Epoch 4 completed out of 10 
+loss: 133233.740448
+Accuracy 0.9366
+Epoch 5 completed out of 10 
+loss: 78789.6097407
+Accuracy 0.9409
+Epoch 6 completed out of 10 
+loss: 50667.3226483
+Accuracy 0.935
+Epoch 7 completed out of 10 
+loss: 35182.4027965
+Accuracy 0.9435
+Epoch 8 completed out of 10 
+loss: 26612.5174985
+Accuracy 0.9465
+Epoch 9 completed out of 10 
+loss: 20459.249764
+Accuracy 0.9484
+Epoch 10 completed out of 10 
+loss: 18646.5262027
+Accuracy 0.9488
